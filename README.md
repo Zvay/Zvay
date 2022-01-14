@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zvay
-- 👀 I’m interested in Front-end and Back-end Development
+- 👀 I’m interested in Front-end and Back-end Development. focusing mostly on Front-end for now.
 - 🌱 I’m currently learning HTML/CSS/JS and soon Frameworks like node/react and so on.
 - 💞️ I’m looking to collaborate on nothing yet
 - 📫 How to reach me zvay98@gmail.com
