@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zvay
-- 👀 I’m interested in Front-end and Back-end Development(MEVN STACK)
+- 👀 I’m interested in Front-end and Back-end Development(MERN Stack)
 - 💞️ I’m looking to collaborate on nothing yet
 - 📫 How to reach me zvay98@gmail.com
 
